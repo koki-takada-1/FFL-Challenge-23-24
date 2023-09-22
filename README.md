@@ -30,11 +30,11 @@ STEAMとは、Science（科学）、Technology（技術）、Engineering（工�
   ・1競技15個のミッション+精密トークンの数
   
   ・Gracious Professionalismというコアバリューに加算される要素がある
-
-　[550点動画](https://www.youtube.com/watch?v=8oMvZqAUF04&t=44s)
-
+  
+  [550点動画](https://www.youtube.com/watch?v=8oMvZqAUF04&t=44s)
+  
   [370点動画](https://www.youtube.com/watch?v=fugKmRSWE0o)
-　
+  
   [YouTube競技ルール動画](https://www.youtube.com/watch?v=zI_vz9YUw1g)
   
-　[公式得点計算サイト](https://eventhub.firstinspires.org/scoresheet)
+  [公式得点計算サイト](https://eventhub.firstinspires.org/scoresheet)
