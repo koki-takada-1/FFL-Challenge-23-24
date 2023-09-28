@@ -31,6 +31,8 @@ STEAMとは、Science（科学）、Technology（技術）、Engineering（工�
   
   ・Gracious Professionalismというコアバリューに加算される要素がある
   
+  [ルールブック](https://firstjapan.jp/first2/wp-content/uploads/2023/08/FLL_Challenge_RGR_MASTERPIECE_JP.pdf)
+
   [550点動画](https://www.youtube.com/watch?v=8oMvZqAUF04&t=44s)
   
   [370点動画](https://www.youtube.com/watch?v=fugKmRSWE0o)
